@@ -118,9 +118,9 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Thanks_Message" xml:space="preserve">
-    <value>Thank you from Argentina with 💟!</value>
+    <value>Suit yourself. I don't care what you want.</value>
   </data>
   <data name="UserNotSponsoring_Message" xml:space="preserve">
-    <value>Your sponsorship will help fund the development of an even greater Moq for all!</value>
+    <value>Thanks you for the contribution to the privacy and impartiality of the open source community.</value>
   </data>
 </root>

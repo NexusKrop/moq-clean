@@ -118,9 +118,9 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Thanks_Message" xml:space="preserve">
-    <value>Gracias desde Argentina con 💟!</value>
+    <value>勝手にしろ。あなたの望みは私とは関係ない。</value>
   </data>
   <data name="UserNotSponsoring_Message" xml:space="preserve">
-    <value>Tu patrocinio ayudará al desarrollo de un Moq incluso mejor para todos!</value>
+    <value>ヒトリダケナンテエラベナイヨー！</value>
   </data>
 </root>

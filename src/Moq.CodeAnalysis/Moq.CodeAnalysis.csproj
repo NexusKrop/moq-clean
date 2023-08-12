@@ -5,6 +5,10 @@
     <PackFolder>analyzers/dotnet/roslyn4.0</PackFolder>
     <SignAssembly>false</SignAssembly>
     <EnableRexCodeGenerator>true</EnableRexCodeGenerator>
+    <PackageId>NexusKrop.Moq.CodeAnalysis</PackageId>
+    <Copyright>Copyright (C) NexusKrop project 2023. Copyright (C) Daniel Cazzulino and Contributors. All rights reserved.</Copyright>
+    <Description>Moq.CodeAnalysis sans SponsorLink</Description>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>
